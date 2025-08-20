@@ -27,7 +27,7 @@ A simple and responsive web application that helps users find recipes based on i
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Varshithagajula/Recipe_Finder.git
 cd recipe_finder
 ```
 ### 2. Open in Browser
