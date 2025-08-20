@@ -38,7 +38,7 @@ start index.html    # For Windows
 open index.html     # For macOS
 ```
 ### ✨ Live Demo
-
+https://varshithagajula.github.io/Recipe_Finder/
 
 ### 📄 License
 This project is licensed under the MIT License.
